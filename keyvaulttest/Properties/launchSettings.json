@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "keyvaulttest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
